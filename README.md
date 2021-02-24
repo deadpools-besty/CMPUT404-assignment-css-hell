@@ -12,6 +12,11 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Changes:
+=========
+
+Removed style tag in Notes from the Underground to make it link to the stylesheet instead
+
 License/Copyright
 =================
 

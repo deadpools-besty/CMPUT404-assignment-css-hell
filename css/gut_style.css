@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@500&display=swap');
+BODY { color: Black;
+       background: #F6E6CB;
+       margin-right: 10%;
+       margin-left: 10%;
+       font-family: "Josefin Slab", serif;
+       text-align: justify }
+
+PRE.poem { font-size: small;
+           font-family: "Times New Roman", serif; }
+h1, h2, h3, h4 {
+        text-align: center;
+        clear: both;
+}
+P {text-indent: 4%;
+        font-size: large;
+}
+
+P.noindent {text-indent: 0% }
+
+P.poem {text-indent: 0%;
+        margin-left: 10%; }
+
+P.intro {text-indent: 0%;
+        margin-left: 10%;
+        margin-right: 10%;}
+
+P.finis { text-align: center ;
+          text-indent: 0% ;
+          margin-left: 0% ;
+          margin-right: 0% }
