@@ -15,7 +15,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 Changes:
 =========
 
-Removed original style tags in each of the 3 documents to replace them with: <link rel="stylesheet" href="css/gut_style.css" type="text/css"/>
+Removed original style tags in each of the 3 documents to replace them with: ```<link rel="stylesheet" href="css/gut_style.css" type="text/css"/>```
 
 
 License/Copyright

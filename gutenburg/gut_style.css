@@ -5,13 +5,15 @@ BODY { color: Black;
        margin-left: 10%;
        font-family: "Josefin Slab", serif;
        text-align: justify }
-
-PRE.poem { font-size: small;
-           font-family: "Times New Roman", serif; }
 h1, h2, h3, h4 {
         text-align: center;
         clear: both;
 }
+
+/* classes follow from the initial CSS that was in notes from the underground (file 2.html)*/
+PRE.poem { font-size: small;
+        font-family: "Times New Roman", serif; }
+
 P {text-indent: 4%;
         font-size: large;
 }
