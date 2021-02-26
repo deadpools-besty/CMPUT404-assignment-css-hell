@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+.introDiv {
+    margin-right: 160px;
+    background-color:rgb(151, 151, 151);
+}
+
+.historyDiv {
+    
+    margin-left: auto;
+    text-align: right;
+    margin-right: 160px;
+    background-color:rgb(151, 151, 151);
+
+}
+
+.offeringDiv {
+    
+    margin-left: auto;
+    text-align: center;
+    margin-right: 160px;
+    background-color:rgb(151, 151, 151);
+
+}
+
+h1, h2, h3, h4, h5 { 
+    font-family: 'DotGothic16', sans-serif;
+    font-weight: bold;
+    color: aqua;
+}
+p {
+    font-family: 'DotGothic16', sans-serif;
+    color: yellowgreen;
+
+}
+/*https://stackoverflow.com/a/3029434*/
+img {
+    height: auto;
+}
+/*https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp*/
+.sidenav {
+    height: auto;
+    width: 160px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgb(151, 151, 151);
+    overflow-x: hidden;
+    padding-top: 20px;
+    z-index: 1;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+li {
+    font-family: Open Sans;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav p {font-size: 18px;}
+  }
