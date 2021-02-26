@@ -27,4 +27,6 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+The HTML and CSS under the homepage directory and the CSS in the gutenburg directory of this repository are licensed by Nana Andoh under the [Creative Commons Attribution-NoDerivs 2.5 Canada License](https://creativecommons.org/licenses/by-nd/2.5/ca/) 
+
 
